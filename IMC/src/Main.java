@@ -10,9 +10,10 @@ public class Main {
 
 		double massa, altura, imc;
 
-		System.out.println("----------------------------");
-		System.out.println("----- CALCULANDO O IMC -----");
-		System.out.println("----------------------------");
+		System.out.println("============================");
+		System.out.println("      CALCULANDO O IMC      ");
+		System.out.println("============================");
+		System.out.println("   ");
 		System.out.print("Informe sua MASSA (kg): ");
 		massa = leia.nextDouble();
 		System.out.print("Informe sua ALTURA (m): ");
